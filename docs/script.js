@@ -1,8 +1,8 @@
 const imagenElemento = document.getElementById('carrusel-imagen');
 const imagenes = [
-    'imagen1.jpg',
-    'imagen2.jpg',
-    'imagen3.jpg',
+    'img/imagen1.jpg',
+    'img/imagen2.jpg',
+    'img/imagen3.jpg',
 ];
 let indiceActual = 0;
 function cambiarImagen() {
